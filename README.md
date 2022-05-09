@@ -13,9 +13,9 @@ first we trained our data set with Logistic regression it gives 72% accuracy.als
 we found FPR and FNR is high so obviously this is not appropriate model. so we tried Random forest and KNN classifier.
 we got approximately simmilar results.
 So we balanced our data with smote function and try again.This time we got better results .
-We check with ROC and AUC curve and we found KNN giving best results.
+We check with ROC and AUC curve and we found KNN giving best results.We also analyse data on Tableau.
 
-We also analyse data on Tableau
+
 
 
 
